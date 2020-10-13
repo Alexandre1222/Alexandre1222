@@ -6,3 +6,5 @@
 - 💬 Ask me about something funny
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I hate avocado
+
+! [Peridot](https://img.fireden.net/co/image/1488/74/1488743313709.gif)
