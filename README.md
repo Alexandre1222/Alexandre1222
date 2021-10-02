@@ -7,4 +7,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I hate avocado
 
-![Peridot](https://img.fireden.net/co/image/1488/74/1488743313709.gif)
+![Spinel](https://i.pinimg.com/originals/a0/e4/2d/a0e42d8bdcef78f914f2155420d3eb14.gif)
