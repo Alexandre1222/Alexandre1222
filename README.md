@@ -10,6 +10,8 @@
   <img align="center" alt="Ale-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ale-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ale-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ale-AndroidStudio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
+    <img align="center" alt="Ale-AndroidStudio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
   <img align="right" alt="Ale-pic" height="180" style="border-radius:50px;" src="https://64.media.tumblr.com/fd4e0208fb0d119f82863740a6424a2d/e09e8ff932ed94f8-15/s400x600/e6e9c797db0ca25f933ba17c5cf87d5ec1c07a0b.gifv">
 </div>
   
